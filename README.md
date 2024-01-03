@@ -1,2 +1,2 @@
 # bookbot
-## print word report of books
+## word and char counter for books/text
